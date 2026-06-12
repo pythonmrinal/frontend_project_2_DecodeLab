@@ -1,4 +1,4 @@
-# frontend_project_2_DecodeLab
+
 # Responsive Web Layout
 
 A modern and fully responsive web layout built using HTML, CSS, and JavaScript. This project was developed as part of the DecodeLabs Frontend Development Internship Project 2.
